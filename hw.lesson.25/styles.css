@@ -1,0 +1,15 @@
+ul {
+    position: absolute;
+    right: 50px;
+    width: 600px;
+    padding-right: 100px;
+    border: 5px solid black;
+
+}
+
+li {
+    width: 600px;
+    padding: 30px;
+    margin-bottom: 20px;
+    border: 5px solid orangered;
+}
